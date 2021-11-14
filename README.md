@@ -18,7 +18,7 @@
 
 이 목록은 그러한 사람들, 또는 이미 방법을 알고 있는 사람들이 함께 살아가기 위한 지식을 나누기 위해 만들어졌습니다. 
 
-이 저장소는 [루이스 다트넬 (Lewis Dartnell)](http://lewisdartnell.com) 교수의 저서 *지식 (The Knowledge: How to Rebuild Our World from Scratch)* 에서 영감을 얻고, 문서의 형식은 [Front-End Performance Checklis](https://github.com/thedaviddias/Front-End-Performance-Checklist) 에서 영향을 받았습니다.
+이 저장소는 [루이스 다트넬 (Lewis Dartnell)](http://lewisdartnell.com) 교수의 저서 *지식 (The Knowledge: How to Rebuild Our World from Scratch)* 에서 영감을 얻고, 문서의 형식은 [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) 에서 영향을 받았습니다.
 
 ## 사용법
 
